@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-I'm Carlos, a web dev specialized in React and Typescript, driven by great UX!"
+I'm Carlos, a web dev specialized in React and Typescript, driven by great UX!
 
 ### Tech Stack
 
